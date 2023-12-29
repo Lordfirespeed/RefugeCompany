@@ -58,6 +58,7 @@ jobs:
         uses: actions/download-artifact@v4
         with:
           name: thunderstore-build
+          path: ./dist
 
       - name: Validate artifact exists
         run: test -d ./dist

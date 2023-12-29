@@ -62,6 +62,15 @@ jobs:
       - name: Validate artifact exists
         run: test -d ./dist
 
+      - name: Setup .NET environment
+        uses: actions/setup-dotnet@v3
+        with:
+          dotnet-version: "8.0.100"
+
+      - name: Setup thunderstore CLI
+        run: |
+          dotnet tool install -g tcli
+
       - name: Publish to Thunderstore
         env:
           TCLI_AUTH_TOKEN: ${{ secrets.THUNDERSTORE_API_TOKEN }}

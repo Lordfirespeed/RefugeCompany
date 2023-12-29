@@ -1,0 +1,39 @@
+# Exclude everything
+/*
+
+# Specific includes
+
+## Build System/Scripts
+!NuGet.Config
+!Directory.Build.props
+!build.sh
+!build.ps1
+!build.cmd
+
+## Markdowns
+!*.md
+!LICENSE
+
+## important Git files
+!.gitmodules
+!.gitignore
+!.gitattributes
+!.git-blame-ignore-revs
+
+## GitHub specific
+!.github/
+
+## Thunderstore assets/metadata
+!thunderstore.toml
+!icon.png
+
+## Solution
+!RefugeCompany.sln
+
+### Refuge Company Project
+!RefugeCompany/
+RefugeCompany/[Bb]in/
+RefugeCompany/[Oo]bj/
+
+# Explicit exceptions/ignores
+**.user

@@ -9,6 +9,7 @@
 !build.sh
 !build.ps1
 !build.cmd
+!.config
 
 ## Markdowns
 !*.md

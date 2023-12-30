@@ -14,6 +14,11 @@ websiteUrl = "https://github.com/Lordfirespeed/RefugeCompany"
 containsNsfwContent = false
 
 [package.dependencies]
+# Libraries / dependencies
+BepInEx-BepInExPack = "5.4.2100"
+Evaisa-LethalLib = "0.9.0"
+LC_API = "3.2.2"
+Rune580-LethalCompany_InputUtils = "0.4.4"
 
 # Asset replacers
 x753-More_Suits = "1.4.1"

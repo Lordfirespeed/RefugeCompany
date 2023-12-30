@@ -27,6 +27,7 @@
 ## Thunderstore assets/metadata
 !thunderstore.toml
 !icon.png
+!assets
 
 ## Solution
 !RefugeCompany.sln

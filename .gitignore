@@ -28,6 +28,7 @@
 !thunderstore.toml
 !icon.png
 !assets
+assets/generated
 
 ## Solution
 !ModpackBuilder.sln

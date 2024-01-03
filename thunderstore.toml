@@ -16,8 +16,8 @@ containsNsfwContent = false
 [package.dependencies]
 ### Libraries / dependencies
 BepInEx-BepInExPack = "5.4.2100"
-Evaisa-LethalLib = "0.9.0"
-2018-LC_API = "3.2.2"
+Evaisa-LethalLib = "0.10.1"
+2018-LC_API = "3.2.3"
 Rune580-LethalCompany_InputUtils = "0.4.4"
 
 ### Asset replacers
@@ -32,7 +32,7 @@ atg-FreeJester = "1.0.3"
 
 ### QoL / Bugfixes
 notnotnotswipez-MoreCompany = "1.7.2"
-FlipMods-HotbarPlus = "1.4.4"
+FlipMods-HotbarPlus = "1.4.7"
 Renegades-WalkieUse = "1.4.0"
 Renegades-FlashlightToggle = "1.5.0"
 Suskitech-AlwaysHearActiveWalkies = "1.4.3"
@@ -44,14 +44,14 @@ SirTyler-BetterTeleporter = "1.2.2"
 5Bit-FPSSpectate = "1.0.1"
 Mom_Llama-Lethal_Company_Enhancer = "0.1.10"
 FutureSavior-Boombox_Sync_Fix = "1.1.2"
-Verity-TooManySuits = "1.0.4"
-CapyCat-Solos_Bodycams = "1.0.4"
+Verity-TooManySuits = "1.0.5"
+CapyCat-Solos_Bodycams = "1.0.5"
 FlipMods-ObjectVolumeController = "1.0.3"
 
 ### Features
 x753-Mimics = "2.3.0"
-FlipMods-TooManyEmotes = "1.5.9"
-malco-Lategame_Upgrades = "2.8.5"
+Sligili-More_Emotes ="1.2.2"
+malco-Lategame_Upgrades = "2.8.6"
 Evaisa-LethalThings = "0.8.8"
 
 

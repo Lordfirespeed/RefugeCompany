@@ -14,7 +14,7 @@
       </PackageReference>
     </ItemGroup>
 
-    <Target Name="PackThunderstore" DependsOnTargets="MinVer;PatchReadme" AfterTargets="PostBuildEvent">
+    <Target Name="PackThunderstore" DependsOnTargets="MinVer" AfterTargets="PostBuildEvent">
         <Message Importance="high" Text="MinVer version is $(MinVerVersion)" />
         <PropertyGroup>
             <PlainVersion>$(MinVerMajor).$(MinVerMinor).$(MinVerPatch)</PlainVersion>

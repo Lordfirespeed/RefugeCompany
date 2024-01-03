@@ -13,10 +13,6 @@
         <PrivateAssets>all</PrivateAssets>
       </PackageReference>
     </ItemGroup>
-    
-    <Target Name="PatchReadme" AfterTargets="PostBuildEvent">
-        <PatchReadme />
-    </Target>
 
     <Target Name="PackThunderstore" DependsOnTargets="MinVer;PatchReadme" AfterTargets="PostBuildEvent">
         <Message Importance="high" Text="MinVer version is $(MinVerVersion)" />

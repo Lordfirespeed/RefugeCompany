@@ -33,9 +33,9 @@
 !RefugeCompany.sln
 
 ### Refuge Company Project
-!RefugeCompany/
-RefugeCompany/[Bb]in/
-RefugeCompany/[Oo]bj/
+!ModpackBuilder/
+ModpackBuilder/[Bb]in/
+ModpackBuilder/[Oo]bj/
 
 # Explicit exceptions/ignores
 **.user

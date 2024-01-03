@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefugeCompany", "RefugeCompany\RefugeCompany.csproj", "{A4A1BF85-49B4-4DAE-8787-A4AFB3917F0B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModpackBuilder", "ModpackBuilder\ModpackBuilder.csproj", "{A4A1BF85-49B4-4DAE-8787-A4AFB3917F0B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

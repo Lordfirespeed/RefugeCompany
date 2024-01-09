@@ -19,12 +19,13 @@ BepInEx-BepInExPack = "5.4.2100"
 Evaisa-LethalLib = "0.10.1"
 2018-LC_API = "3.2.3"
 Rune580-LethalCompany_InputUtils = "0.4.4"
+Lordfirespeed-YoutubeDLSharp = "1.1.0"
 
 ### Asset replacers
 x753-More_Suits = "1.4.1"
 femboytv-LethalPosters = "1.2.0"
 Steven-Custom_Boombox_Music = "1.4.0"
-Lordfirespeed-Configured_Youtube_Boombox = "0.1.2"
+Lordfirespeed-Configured_Youtube_Boombox = "0.2.0"
 
 ### Asset replacement providers
 AlexCodesGames-AdditionalSuits = "1.1.3"

@@ -23,6 +23,12 @@
     {
       "youtubeVideoId": "MK6TXMsvgQg",
       "trackName": "benny-hill"
+    },
+    {
+      "youtubeVideoId": "L_jWHffIx5E",
+      "trackName": "all-star",
+      "startTimestamp": "00:00:36.50",
+      "volumeScalar": 0.4
     }
   ]
 }

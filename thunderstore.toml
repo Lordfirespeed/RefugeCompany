@@ -12,8 +12,8 @@ containsNsfwContent = false
 [package.dependencies]
 ### Libraries / dependencies
 BepInEx-BepInExPack = "5.4.2100"
-Evaisa-LethalLib = "0.13.0"
-2018-LC_API = "3.3.2"
+Evaisa-LethalLib = "0.13.1"
+2018-LC_API = "3.4.3"
 Rune580-LethalCompany_InputUtils = "0.5.5"
 Lordfirespeed-YoutubeDLSharp = "1.1.0"
 Evaisa-HookGenPatcher = "0.0.5"
@@ -42,8 +42,8 @@ FutureSavior-Boombox_Sync_Fix = "1.1.2"
 
 ### Quality of Life
 notnotnotswipez-MoreCompany = "1.7.4"
-FlipMods-HotbarPlus = "1.5.4"
-Renegades-WalkieUse = "1.4.0"
+FlipMods-HotbarPlus = "1.5.6"
+Renegades-WalkieUse = "1.5.0"
 Renegades-FlashlightToggle = "1.5.0"
 Suskitech-AlwaysHearActiveWalkies = "1.4.4"
 Giltong-LethalCompanyDRP = "1.3.6"
@@ -62,7 +62,7 @@ Lordfirespeed-Augmented_Enhancer = "0.6.0"
 ### Features
 x753-Mimics = "2.3.2"
 Sligili-More_Emotes ="1.3.3"
-malco-Lategame_Upgrades = "3.0.1"
+malco-Lategame_Upgrades = "3.0.3"
 Evaisa-LethalThings = "0.9.4"
 IntegrityChaos-Diversity = "1.1.10"
 scoopy-Scoopys_Variety_Mod = "0.6.5"

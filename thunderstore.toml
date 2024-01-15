@@ -86,6 +86,10 @@ target = "/"
 source = "assets/config"
 target = "/BepInEx/config/"
 
+[[build.copy]]
+source = "assets/plugins"
+target = "/BepInEx/plugins/"
+
 
 [publish]
 repository = "https://thunderstore.io"

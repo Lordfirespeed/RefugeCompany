@@ -2,10 +2,6 @@
 schemaVersion = "0.0.1"
 
 
-[general]
-repository = "https://thunderstore.io"
-
-
 [package]
 namespace = "Lordfirespeed"
 name = "Refuge_Company"
@@ -71,6 +67,7 @@ target = "/BepInEx/config/"
 
 
 [publish]
+repository = "https://thunderstore.io"
 communities = [ "lethal-company", ]
 
 [publish.categories]

@@ -79,10 +79,6 @@ readme = "./README.md"
 outdir = "./dist"
 
 [[build.copy]]
-source = "assets/configured-youtube-boombox-tracks.json"
-target = "/"
-
-[[build.copy]]
 source = "assets/config"
 target = "/BepInEx/config/"
 

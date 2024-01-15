@@ -16,6 +16,9 @@ Evaisa-LethalLib = "0.11.2"
 2018-LC_API = "3.3.2"
 Rune580-LethalCompany_InputUtils = "0.4.4"
 Lordfirespeed-YoutubeDLSharp = "1.1.0"
+Evaisa-HookGenPatcher = "0.0.5"
+IAmBatby-LethalLevelLoader = "1.0.6"
+NotAtomicBomb-TerminalApi = "1.5.0"
 
 ### Asset replacers
 x753-More_Suits = "1.4.1"
@@ -27,12 +30,13 @@ Lordfirespeed-Configured_Youtube_Boombox = "0.3.1"
 AlexCodesGames-AdditionalSuits = "2.0.0"
 atg-FreeJester = "1.0.3"
 
-### QoL / Bugfixes
 # Optimizers/Fixes
 BlueAmulet-LogNeuter = "1.0.3"
 MassiveNewCoilers-FixCentipedeLag = "2023.12.7"
 linkoid-DissonanceLagFix = "1.0.0"
 FutureSavior-Boombox_Sync_Fix = "1.1.2"
+
+### Quality of Life
 notnotnotswipez-MoreCompany = "1.7.4"
 FlipMods-HotbarPlus = "1.5.1"
 Renegades-WalkieUse = "1.4.0"
